@@ -1,3 +1,7 @@
 {
-  "poll_today": 33
+  "poll_today": [
+    {
+      "number: 33
+    }
+  ]
 }
